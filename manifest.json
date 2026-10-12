@@ -1,13 +1,13 @@
 {
-  "name": "EBD Comunidade Esperança",
-  "short_name": "EBD Esperança",
-  "description": "Escola Bíblica Dominical: 52 semanas de material para professor e aluno",
+  "name": "EBD Professor - Comunidade Esperança",
+  "short_name": "EBD Professor",
+  "description": "Escola Bíblica Dominical: material do professor, 52 semanas",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFFFFF",
-  "theme_color": "#1E3A8A",
+  "theme_color": "#FFFFFF",
   "lang": "pt",
   "icons": [
     {
